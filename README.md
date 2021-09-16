@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/serverless-stack/identity/main/serverless-stack.svg" width="50%" />
+<img src="https://raw.githubusercontent.com/serverless-stack/identity/main/variants/serverless-stack-fill.svg" width="50%" />
 
 ### How to use the Serverless Stack and SST logo
 
