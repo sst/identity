@@ -14,7 +14,23 @@
 
 ### Variants
 
-<img src="https://raw.githubusercontent.com/serverless-stack/identity/main/preview.svg" width="50%" />
+        <span>
+          <img src="https://raw.githubusercontent.com/serverless-stack/identity/reorg/variants/logomark-blue.svg" width="25px" />
+          <img src="https://raw.githubusercontent.com/serverless-stack/identity/reorg/variants/logomark-white.svg" width="25px" />
+        </span>
+        <span>
+          <img src="https://raw.githubusercontent.com/serverless-stack/identity/reorg/variants/sst-blue.svg" width="50px" />
+          <img src="https://raw.githubusercontent.com/serverless-stack/identity/reorg/variants/sst-white.svg" width="50px" />
+        </span>
+        <span>
+          <img src="https://raw.githubusercontent.com/serverless-stack/identity/reorg/variants/sst-full.svg" width="100px" />
+          <img src="https://raw.githubusercontent.com/serverless-stack/identity/reorg/variants/sst-full-blue.svg" width="100px" />
+          <img src="https://raw.githubusercontent.com/serverless-stack/identity/reorg/variants/sst-full-white.svg" width="100px" />
+        </span>
+        <span>
+          <img src="https://raw.githubusercontent.com/serverless-stack/identity/reorg/variants/serverless-stack-blue.svg" width="200px" />
+          <img src="https://raw.githubusercontent.com/serverless-stack/identity/reorg/variants/serverless-stack-white.svg" width="200px" />
+        </span>
 
 ---
 
