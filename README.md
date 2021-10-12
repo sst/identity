@@ -14,15 +14,7 @@
 
 ### Variants
 
-<img src="https://raw.githubusercontent.com/serverless-stack/identity/main/logomark-blue.svg" width="50%" />
-<img src="https://raw.githubusercontent.com/serverless-stack/identity/main/logomark-white.svg" width="50%" />
-<img src="https://raw.githubusercontent.com/serverless-stack/identity/main/sst-blue.svg" width="50%" />
-<img src="https://raw.githubusercontent.com/serverless-stack/identity/main/sst-white.svg" width="50%" />
-<img src="https://raw.githubusercontent.com/serverless-stack/identity/main/serverless-stack-blue.svg" width="50%" />
-<img src="https://raw.githubusercontent.com/serverless-stack/identity/main/serverless-stack-white.svg" width="50%" />
-<img src="https://raw.githubusercontent.com/serverless-stack/identity/main/sst-full.svg" width="50%" />
-<img src="https://raw.githubusercontent.com/serverless-stack/identity/main/sst-full-blue.svg" width="50%" />
-<img src="https://raw.githubusercontent.com/serverless-stack/identity/main/sst-full-white.svg" width="50%" />
+<img src="https://raw.githubusercontent.com/serverless-stack/identity/main/preview.svg" width="50%" />
 
 ---
 

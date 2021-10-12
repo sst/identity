@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 800 400" width="800" height="400">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+        .container {
+          background-color: #F4ECE8;
+        }
+      </style>
+			<div class="container">
+        <img src="https://raw.githubusercontent.com/serverless-stack/identity/main/logomark-blue.svg" width="50%" />
+        <img src="https://raw.githubusercontent.com/serverless-stack/identity/main/logomark-white.svg" width="50%" />
+        <img src="https://raw.githubusercontent.com/serverless-stack/identity/main/sst-blue.svg" width="50%" />
+        <img src="https://raw.githubusercontent.com/serverless-stack/identity/main/sst-white.svg" width="50%" />
+        <img src="https://raw.githubusercontent.com/serverless-stack/identity/main/serverless-stack-blue.svg" width="50%" />
+        <img src="https://raw.githubusercontent.com/serverless-stack/identity/main/serverless-stack-white.svg" width="50%" />
+        <img src="https://raw.githubusercontent.com/serverless-stack/identity/main/sst-full.svg" width="50%" />
+        <img src="https://raw.githubusercontent.com/serverless-stack/identity/main/sst-full-blue.svg" width="50%" />
+        <img src="https://raw.githubusercontent.com/serverless-stack/identity/main/sst-full-white.svg" width="50%" />
+      </div>
+		</div>
+	</foreignObject>
+</svg>
