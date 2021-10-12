@@ -1,33 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 800 400" width="800" height="400">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
-        .container {
-          padding: 15px 30px;
-          width: 100%;
-          height: 100%;
-          background-color: #F4ECE8;
-        }
-      </style>
-			<div class="container">
-        <p>
-          <img src="https://raw.githubusercontent.com/serverless-stack/identity/reorg/variants/logomark-blue.svg" width="25px" />
-          <img src="https://raw.githubusercontent.com/serverless-stack/identity/reorg/variants/logomark-white.svg" width="25px" />
-        </p>
-        <p>
-          <img src="https://raw.githubusercontent.com/serverless-stack/identity/reorg/variants/sst-blue.svg" width="50px" />
-          <img src="https://raw.githubusercontent.com/serverless-stack/identity/reorg/variants/sst-white.svg" width="50px" />
-        </p>
-        <p>
-          <img src="https://raw.githubusercontent.com/serverless-stack/identity/reorg/variants/sst-full.svg" width="100px" />
-          <img src="https://raw.githubusercontent.com/serverless-stack/identity/reorg/variants/sst-full-blue.svg" width="100px" />
-          <img src="https://raw.githubusercontent.com/serverless-stack/identity/reorg/variants/sst-full-white.svg" width="100px" />
-        </p>
-        <p>
-          <img src="https://raw.githubusercontent.com/serverless-stack/identity/reorg/variants/serverless-stack-blue.svg" width="200px" />
-          <img src="https://raw.githubusercontent.com/serverless-stack/identity/reorg/variants/serverless-stack-white.svg" width="200px" />
-        </p>
-      </div>
-		</div>
-	</foreignObject>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 400 400" width="400" height="400">
+          <image href="https://raw.githubusercontent.com/serverless-stack/identity/reorg/variants/logomark-blue.svg" width="25px" />
 </svg>
