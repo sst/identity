@@ -9,12 +9,12 @@
 ## Variants
 
 <span>
-  <img src="variants/create-sst-white.svg?raw=true&sanitize=true" width="50px" />
+  <img src="variants/create-sst-white.svg?raw=true&sanitize=true" width="150px" />
 </span>
 <br />
 <span>
-  <img src="variants/create-sst-monochrome-dark.svg?raw=true&sanitize=true" width="50px" />
-  <img src="variants/create-sst-monochrome-white.svg?raw=true&sanitize=true" width="50px" />
+  <img src="variants/create-sst-monochrome-dark.svg?raw=true&sanitize=true" width="150px" />
+  <img src="variants/create-sst-monochrome-white.svg?raw=true&sanitize=true" width="150px" />
 </span>
 
 ---
