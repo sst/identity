@@ -1,4 +1,4 @@
-<img src="serverless-stack.svg?raw=true&sanitize=true" width="50%" />
+<img src="variants/sst-full.svg?raw=true&sanitize=true" width="50%" />
 
 ## How to use the Serverless Stack and SST logo
 
